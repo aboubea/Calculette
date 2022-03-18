@@ -1,2 +1,3 @@
-# Calculette
-Calculette selon la norme DO178
+# Calculatrice
+
+Calculette d'après la norme DO178
